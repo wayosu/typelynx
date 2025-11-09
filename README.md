@@ -2,7 +2,7 @@
 
 Sebuah aplikasi tes mengetik minimalis dan berkinerja tinggi yang dibuat dengan tumpukan teknologi web modern. Terinspirasi oleh *Monkeytype*.
 
-`[Screenshot atau GIF dari Type Lynx]`
+![Tampilan Aplikasi Type Lynx](./screenshot.jpg)
 
 Type Lynx adalah aplikasi tes kecepatan mengetik yang dibuat dari awal untuk meniru nuansa bersih dan fungsionalitas inti dari game mengetik populer. Proyek ini dibangun sebagai latihan untuk mengimplementasikan logika permainan yang interaktif (termasuk *state management*, *timer*, dan kalkulasi WPM) dengan *tech stack* modern.
 
